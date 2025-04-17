@@ -40,5 +40,4 @@ If you have any questions or inquiries, please feel free to reach out to me thro
 Thank you for visiting my personal portfolio repository! I hope you find it informative and visually appealing.
 
 
-![Screenshot 2024-10-14 113437](https://github.com/user-attachments/assets/18988521-bb84-4494-b65e-f2691da35f9f)
 
